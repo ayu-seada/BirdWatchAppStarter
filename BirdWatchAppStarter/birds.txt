@@ -1,0 +1,11 @@
+1,"Sparrow",5
+"Kris Kristofferson","Glasgow",3
+"Tori Amos","Glasgow",4
+"Herbie Hancock","North Lanarkshire",4
+"Diana Krall","South Lanarkshire",2
+"k. d. Lang","Glasgow",3
+2,"Blackbird",2
+"Norah Jones","Glasgow",4
+"Herbie Hancock","North Lanarkshire",5
+3,"Seagull",1
+"Kris Kristofferson","Glasgow",3
